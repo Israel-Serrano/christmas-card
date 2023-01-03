@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Feliz Navidad</string>
+    <string name="todo">TODO</string>
+    <string name="feliz">*Feliz*</string>
+    <string name="navidad">*Navidad*</string>
+    <string name="trineo">TRINEO</string>
+    <string name="copo">COPO</string>
+    <string name="cargando">CARGANDO...</string>
+</resources>

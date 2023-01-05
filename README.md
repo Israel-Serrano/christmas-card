@@ -1,6 +1,6 @@
 # christmas-card
 
-Práctica de 2º de DAM de crear una app para Android
+Práctica de 2º de DAM de Programación Multimedia y Dispositivos Móviles, crear una app para Android
 
 Felicitación navideña que contiene un SPLASH con una animación 
 que da paso a la felicitación.
